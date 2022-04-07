@@ -1,7 +1,12 @@
 ## Table of contents
 
 - [Built with](#built-with)
+- [The challenge](#the-challenge)
 - [What I learned](#what-i-learned)
+
+### The challenge
+
+The challenge was to built a QR code component
 
 ### Built with
 
