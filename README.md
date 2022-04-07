@@ -6,7 +6,7 @@
 
 ### The challenge
 
-The challenge was to built a QR code component
+The challenge was to build a QR code component
 
 ### Built with
 
